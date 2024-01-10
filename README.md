@@ -1,1 +1,1 @@
-# gpt-speciesism-data
+Data for speciesism LLM paper
